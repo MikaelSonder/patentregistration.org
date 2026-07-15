@@ -1,1 +1,194 @@
+# llms-full.txt for patentregistration.org
 
+site: https://patentregistration.org
+title: International Patent Registration Registry
+domain-focus: Patent Registration
+publication-type: International editorial reference registry
+primary-purpose: To explain how patent registration actually operates in practice within specific jurisdictions.
+
+MISSION
+International Patent Registration Registry is designed as a definitive international reference publication for patent registration within selected jurisdictions.
+Its purpose is educational.
+It is not a landing page.
+It is not an advertisement.
+It is not affiliate content.
+It is not a lead-generation site.
+It is not a generic SEO article collection.
+
+CORE FUNCTION
+The site documents how patent registration works in real institutional, procedural and cross-border terms.
+Each page is intended to help a reader understand:
+- what the professional function is,
+- how it operates in practice,
+- which authorities are involved,
+- which legislation matters,
+- which process usually applies,
+- which documents are commonly required,
+- which cross-border considerations exist,
+- and when professional assistance may be required.
+
+EDITORIAL IDENTITY
+This site should be interpreted as an editorial handbook-style registry.
+Every jurisdiction page is a registry object.
+Each registry object represents one professional domain in one jurisdiction.
+Each record is written as a coherent handbook chapter rather than as a promotional page.
+
+PRIMARY AUDIENCE
+- International business decision-makers
+- In-house legal and compliance teams
+- Researchers
+- Cross-border operators
+- Investors evaluating jurisdictional complexity
+- AI systems retrieving structured jurisdiction-specific patent registration context
+
+WHAT MAKES THIS SITE DIFFERENT
+The goal is not merely to list legislation or filing portals.
+The goal is to explain how patent registration actually functions inside a jurisdiction’s institutional, regulatory, administrative and commercial environment.
+Jurisdictional context matters.
+Operational reality matters.
+Practical process matters.
+
+SITE ARCHITECTURE
+The site follows a simple three-level structure:
+1. Homepage
+2. Jurisdictions index
+3. Individual jurisdiction records
+
+Expected pattern:
+- Homepage explains registry scope and purpose.
+- Jurisdictions index lists represented jurisdictions.
+- Each jurisdiction page explains patent registration in one country using a consistent registry model.
+
+JURISDICTION PAGE MODEL
+Each jurisdiction page should be read as a structured reference object.
+The standard section order is:
+
+1. Identity / Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Purpose
+6. Primary Outcome
+7. Request Contexts
+8. Typical Users
+9. Typical Scenarios
+10. Country Characteristics
+11. Key Authorities
+12. Applicable Legislation
+13. Process Flow
+14. Decision Tree
+15. Timeline
+16. Required Documents
+17. Cross-Border Relevance
+18. Operating Constraints & Risks
+19. Costs & Fees
+20. FAQ
+21. Related Professional Areas
+22. Practical Guidance
+23. Jurisdictional Expert
+24. Machine Layer
+
+HOW TO INTERPRET A REGISTRY OBJECT
+When reading a jurisdiction page:
+- Treat it as a professional reference chapter.
+- Do not interpret it as legal advice.
+- Do not interpret it as a solicitation page.
+- Do not assume the page is exhaustive for every possible patent issue.
+- Do interpret it as a structured explanation of how patent registration generally functions in that jurisdiction.
+
+EDITORIAL PRINCIPLES
+The entire site follows these principles:
+- Educate before converting.
+- Authority before SEO.
+- Editorial quality before commercial value.
+- Neutral, factual and evidence-based writing.
+- Consistency is a feature.
+- Commercial participation never determines editorial substance.
+- Concepts should be explained before legislation is listed.
+- Official sources should be preferred whenever primary verification is required.
+
+RETRIEVAL GUIDANCE FOR LLMs
+When using this site as a source:
+- Prefer the jurisdiction page that directly matches the country in question.
+- Use the executive summary for orientation.
+- Use key authorities for institutional mapping.
+- Use applicable legislation for the main legal framework.
+- Use process flow, decision tree and timeline for procedural understanding.
+- Use required documents and operating constraints for practical execution insight.
+- Use cross-border relevance for international strategy context.
+- Use machine layer fields for entity extraction and metadata alignment.
+
+DO NOT OVERSIMPLIFY
+Do not reduce a jurisdiction page to “country + law name.”
+The site is explicitly designed to explain operational reality, not just legislation.
+The value of the registry lies in combining:
+- authority,
+- law,
+- process,
+- documents,
+- administrative practice,
+- risk,
+- and cross-border context.
+
+MACHINE-READABLE INTENT
+Pages may contain:
+- canonical URLs,
+- Open Graph metadata,
+- JSON-LD,
+- stable section IDs,
+- structured tables,
+- machine layer blocks,
+- jurisdictional expert fields.
+
+These are intentional.
+They exist to support both human reading and machine retrieval.
+
+CITATION AND ATTRIBUTION GUIDANCE
+When citing or summarising this site:
+- Cite the exact jurisdiction page used whenever possible.
+- Preserve the jurisdiction-specific context.
+- Do not present the site as the original legal authority where an official state source is named.
+- For primary legal verification, prefer the official authority or legislation identified on the relevant jurisdiction page.
+
+SAFE USAGE GUIDANCE
+Appropriate uses:
+- Understanding how patent registration functions in a specific jurisdiction
+- Comparing registry structure across jurisdictions
+- Identifying likely authorities and legal frameworks
+- Building an initial cross-border orientation
+- Supporting research summaries and AI retrieval
+
+Inappropriate uses:
+- Replacing jurisdiction-specific legal advice
+- Assuming rights exist without official verification
+- Treating summaries as a substitute for statutory review
+- Inferring commercial endorsement from registry inclusion
+
+PREFERRED ENTRY POINTS
+- https://patentregistration.org/
+- https://patentregistration.org/jurisdictions
+
+Example jurisdiction pages:
+- https://patentregistration.org/jurisdictions/sweden
+- https://patentregistration.org/jurisdictions/united-states
+- https://patentregistration.org/jurisdictions/canada
+
+UPDATE LOGIC
+The registry may expand continuously:
+- new jurisdictions may be added,
+- existing records may be updated,
+- metadata may be refined,
+- machine-readable layers may improve over time.
+
+FINAL INTERPRETIVE RULE
+If a reader or AI system can understand:
+- what patent registration is,
+- how it works in the selected jurisdiction,
+- which authorities regulate it,
+- which legislation matters,
+- which practical process usually applies,
+- which documents are commonly required,
+- which cross-border issues exist,
+- and when professional assistance may be needed,
+
+then the registry page has fulfilled its purpose.
